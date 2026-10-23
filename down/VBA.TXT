@@ -1,7 +1,6 @@
 # AutoCAD VBA 다운로드 링크
 # 연도|비트|다운로드 주소
 # 2010~2019: 32/64비트, 2020 이후: 64비트
-2028|64|https://up1.autodesk.com/prd/2027/ACD/2FB2F897-1485-30E7-92AC-FBAC3FDDDDDE/Autodesk_AutoCAD_2027_VBA_Enabler.exe
 2027|64|https://up1.autodesk.com/prd/2027/ACD/2FB2F897-1485-30E7-92AC-FBAC3FDDDDDE/Autodesk_AutoCAD_2027_VBA_Enabler.exe
 2026|64|https://damassets.autodesk.net/content/dam/autodesk/external-assets/support-articles/download-the-microsoft-vba-module-for-autocad/Autodesk_AutoCAD_2026_VBA_Enabler.exe
 2025|64|https://damassets.autodesk.net/content/dam/autodesk/external-assets/support-articles/download-the-microsoft-vba-module-for-autocad/Autodesk_AutoCAD_2025_VBA_Enabler.exe

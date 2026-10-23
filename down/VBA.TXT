@@ -1,0 +1,31 @@
+# AutoCAD VBA 다운로드 링크
+# 연도|비트|다운로드 주소
+# 2010~2019: 32/64비트, 2020 이후: 64비트
+2010|32|https://images.autodesk.com/adsk/files/autocad2010vbaenabler32.exe
+2010|64|https://images.autodesk.com/adsk/files/autocad2010vbaenabler640.exe
+2011|32|https://images.autodesk.com/adsk/files/autocad2011vbaenabler320.exe
+2011|64|https://images.autodesk.com/adsk/files/autocad2011vbaenabler640.exe
+2012|32|https://images.autodesk.com/adsk/files/autocad_2012_vbaenabler_win_32bit.exe
+2012|64|https://images.autodesk.com/adsk/files/autocad_2012_vbaenabler_win_64bit.exe
+2013|32|https://images.autodesk.com/adsk/files/autocad_2013_sp1.1_acvbainstaller_english_win_32bit.exe
+2013|64|https://images.autodesk.com/adsk/files/autocad_2013_sp1.1_acvbainstaller_english_win_64bit.exe
+2014|32|https://images.autodesk.com/adsk/files/AutoCAD_2014_VBA_Enabler_English_Win_32bit_dlm.sfx.exe
+2014|64|https://images.autodesk.com/adsk/files/AutoCAD_2014_VBA_Enabler_English_Win_64bit_dlm.sfx.exe
+2015|32|https://knowledge.autodesk.com/sites/default/files/file_downloads/AutoCAD_2015_AcVbaInstaller_English_Win_32bit.sfx.exe
+2015|64|https://knowledge.autodesk.com/sites/default/files/file_downloads/AutoCAD_2015_AcVbaInstaller_English_Win_64bit.sfx.exe
+2016|32|https://download.autodesk.com/us/support/files/genuine/AutoCAD_2016_AcVbaInstaller_Win_32bit_GL_dlm.sfx.exe
+2016|64|https://download.autodesk.com/us/support/files/genuine/AutoCAD_2016_AcVbaInstaller_Win_64bit_GL_dlm.sfx.exe
+2017|32|https://download.autodesk.com/us/support/files/genuine/AutoCAD_2017_VBA_module_Win_32bit_GL_dlm.sfx.exe
+2017|64|https://download.autodesk.com/us/support/files/genuine/AutoCAD_2017_VBA_module_Win_64bit_GL_dlm.sfx.exe
+2018|32|https://download.autodesk.com/us/support/files/genuine/AutoCAD_2018_VBA_module_Win_32bit_GL_dlm.sfx.exe
+2018|64|https://download.autodesk.com/us/support/files/genuine/AutoCAD_2018_VBA_module_Win_64bit_GL_dlm.sfx.exe
+2019|32|https://download.autodesk.com/us/support/files/genuine/AutoCAD_2019_AcVbaInstaller_Win_32bit_GL_dlm.sfx.exe
+2019|64|https://download.autodesk.com/us/support/files/genuine/AutoCAD_2019_AcVbaInstaller_Win_64bit_GL_dlm.sfx.exe
+2020|64|https://download.autodesk.com/us/support/files/autocad/vba-module/autocad_2020_1_1_acvbainstaller_win_64bit_dlm.sfx.exe
+2021|64|https://download.autodesk.com/us/support/microsoft-vba-module-for-autocad/autocad_2021_acvbainstaller_win_64bit_dlm.sfx.exe
+2022|64|https://download.autodesk.com/us/support/autocad_2022_vba_module/autocad_2022_acvbainstaller_win_64bit_dlm.sfx.exe
+2023|64|https://knowledge.autodesk.com/sites/default/files/file_downloads/Autodesk_AutoCAD_2023_VBA_Enabler.exe
+2024|64|https://damassets.autodesk.net/content/dam/autodesk/external-assets/support-articles/download-the-microsoft-vba-module-for-autocad/Autodesk_AutoCAD_2024_VBA_Enabler.exe
+2025|64|https://damassets.autodesk.net/content/dam/autodesk/external-assets/support-articles/download-the-microsoft-vba-module-for-autocad/Autodesk_AutoCAD_2025_VBA_Enabler.exe
+2026|64|https://damassets.autodesk.net/content/dam/autodesk/external-assets/support-articles/download-the-microsoft-vba-module-for-autocad/Autodesk_AutoCAD_2026_VBA_Enabler.exe
+2027|64|https://up1.autodesk.com/prd/2027/ACD/2FB2F897-1485-30E7-92AC-FBAC3FDDDDDE/Autodesk_AutoCAD_2027_VBA_Enabler.exe

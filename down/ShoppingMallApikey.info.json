@@ -1,0 +1,13 @@
+{
+  "service": "종합쇼핑몰",
+  "endpoint": "https://apis.data.go.kr/1230000/at/ShoppingMallPrdctInfoService",
+  "issued_on": "2026-10-30",
+  "validity_years": 2,
+  "expires_on": "2028-10-30",
+  "expiry_basis": "사용자 발급일/2년 안내 기준 계산. 포털 정확한 종료 시각은 별도 확인.",
+  "key_file": "ShoppingMallApikey.txt",
+  "key_file_format": "만료일 공백 암호문16진수",
+  "compatibility": "기존 KTOOL 관리 VWorld RC4·16진수 방식. 종합쇼핑몰64자리 키.",
+  "plaintext_key_stored": false,
+  "api_authentication_status": "점검 안내 응답으로 미확인"
+}
